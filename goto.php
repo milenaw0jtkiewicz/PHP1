@@ -1,5 +1,5 @@
 <?php
-//Zmienia kolejność wykonania programu - diabel wcielony NIE UZYWAC!!!!!!!!!!!!!!!!!!!!!!!!!
+//Zmienia kolejność wykonania programu - NIE UZYWAC!!!!!!!!!
     goto a;
     echo "pierwszy teskst";
 
