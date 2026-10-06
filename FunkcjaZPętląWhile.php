@@ -6,8 +6,6 @@ function suma($tablica){
         while($i< count($tablica)){
             $razem+=$tablica[$i];
             $i++;
-
-            if($i%2==0);
         }
         return $razem;
 }
