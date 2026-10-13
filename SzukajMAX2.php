@@ -11,4 +11,8 @@ function ZnajdzMax($tablica) {
     }
     return $max_indeks;
     }
-    $tablica=[1,2,3,4,5]
+    $tablica=[1,2,3,4,5];
+    $indeks znajdzMax($tablica);
+    echo "Największy element w tablicy to: "
+    . $tablica[$indeks]
+    . "jest na pozycji" . $indeks;
